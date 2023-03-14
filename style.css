@@ -1,0 +1,30 @@
+#background{
+    background-image: url("fundo.jpg");
+    background-size: cover;
+}
+#titulo, #subtitulo{
+    text-align: center;
+    background-color: white;
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+}
+input{
+    width:250px;
+    height: 25px;
+    color: black;
+    font-size: 20px;
+}
+button{
+    background-color: white;
+    color: black;
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+}
+#but{
+    font-size: 40px;
+}
+canvas{
+    background-color: white;
+    border: solid 25px black;
+}
